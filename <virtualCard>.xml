@@ -1,0 +1,13 @@
+<virtualCard>
+    <cardNumber>349249763034884</cardNumber>
+    <cardHolderName>DylanLabrum</cardHolderName>
+    <expirationDate>11/27</expirationDate>
+    <cvv>123</cvv>
+    <linkedServices>
+        <service>Apple Wallet</service>
+        <service>Samsung Pay</service>
+        <service>Google Pay</service>
+        <service>PayPal</service>
+        <service>CashApp</service>
+    </linkedServices>
+</virtualCard>

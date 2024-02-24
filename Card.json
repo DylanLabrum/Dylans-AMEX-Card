@@ -1,0 +1,28 @@
+{
+  "virtual_amex_card_number": "349249763034884",
+  "cardholder_name": "DylanLabrum",
+  "expiration_date": "11/27",
+  "cvv": "123",
+  "functionality": {
+    "online_stores": true,
+    "purchasing_terminals": true,
+    "pos_purchasing_machines": true,
+    "wallet_integration": {
+      "apple_wallet": true,
+      "samsung_pay": true,
+      "google_pay": true
+    },
+    "payment_apps": ["PayPal", "CashApp"],
+    "online_shopping": true,
+    "network_integration": {
+      "amex_card_network": true,
+      "servers": true
+    },
+    "virtual_card_api": true,
+    "api_keys": true,
+    "customer_data_management": {
+      "api": true,
+      "api_keys": true
+    }
+  }
+}
